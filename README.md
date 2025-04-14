@@ -55,8 +55,8 @@ You can find me and my work across the web:
 
 - 🔗 [**Portfolio Website**](https://rishisp.me/Landing)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/rishikesh-giridhar)
-- 💻 [**GitHub**](https://github.com/rishikesh-giridhar)
-- 📄 [**Resume**](https://rishisp.me/Resume)
+- 💻 [**GitHub**](https://github.com/R-G_KJSIT)
+- 📄 [**Resume**](https://rishisp.me/Landing/Resume-Rishikesh-Giridhar.pdf)
 
 ---
 
@@ -65,10 +65,6 @@ You can find me and my work across the web:
 ### 🔥 Contribution Activity
 
 [![Rishikesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-G-KJSIT&bg_color=1f1f1f&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true)](https://github.com/R-G-KJSIT)
-
-### 🟢 Contribution Graph (Daily Heatmap)
-
-[![GitHub Contribution Graph](https://contribution-graph.ohi6.onrender.com/api/graph?username=R-G-KJSIT)](https://github.com/R-G-KJSIT)
 
 ---
 
