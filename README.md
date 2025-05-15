@@ -59,7 +59,7 @@ You can find me and my work across the web:
 - 🔗 [**Portfolio Website**](https://rishisp.me/Landing)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/rishikesh-giridhar)
 - 💻 [**GitHub**](https://github.com/R-G_KJSIT)
-- 📄 [**Resume**](https://rishisp.me/Landing/Resume-Rishikesh-Giridhar.pdf)
+- 📄 [**Resume**](https://rishispace.vercel.app/media/Resume-Rishikesh-Giridhar.pdf)
 
 ---
 
