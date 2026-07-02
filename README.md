@@ -29,12 +29,11 @@
 
 | 🚧 Project | 📝 Description |
 |-----------|----------------|
-| 🔹 [**OSFM**](https://osfm.rishispace.dev) | A robust server-client management tool with a clean UI. Supports RDP, software install management, and Windows fixes. |
-| 🔹 [**FastWrite**](https://git.rishispace.dev/FastWrite) | AI-powered Python package to auto-generate documentation & flow diagrams using LLMs. |
-| 🔹[**OSFM Markdown Editor**](https://osfm-md.rishispace.dev) | AI-Enhanced, Cloud-First Open-Source Markdown Editor |
-| 🔹[**OSFM AI Terminal Assistant**](https://osfm-ata.rishispace.dev) | A Script that fetches terminal commands from the OSFM-ATA website and prints the command output. The script supports PowerShell, Bash, and package managers like apt, dnf, and pacman. |
-| 🔹[**OSFM Credentials Manager**](https://osfm-creds.rishispace.dev) | An Open-Source Local-First Credentials Manager with an option to backup to Google Cloud |
-| 🔹 **Handwriting Recognition** | A neural network trained to classify handwritten characters with precision. |
+| 🔹 [**OSFM**](https://osfm.rishispace.dev) | A comprehensive suite of tools for modern developers and system administrators |
+| 🔹 [**FastWrite**](https://fastwrite.rishispace.dev) | AI-powered Python package to auto-generate documentation & flow diagrams using LLMs. |
+| 🔹[**Rishi Intelligence**](https://ri.rishispace.dev) | A fully autonomous agent with complete access to your operating system |
+| 🔹[**Enigma OS**](https://enigmaos.rishispace.dev) | A privacy-first Linux OS built for modern users — secure, elegant, and gaming-ready out of the box. |
+| 🔹[**AI-SystemAssist**](https://asa.rishispace.dev) | A simple HTTP server that lets AI agents execute commands on your machine and get structured results back. |
 
 ---
 
