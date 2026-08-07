@@ -32,7 +32,7 @@
 | 🔹 [**OSFM**](https://osfm.rishispace.dev) | A comprehensive suite of tools for modern developers and system administrators |
 | 🔹 [**FastWrite**](https://fastwrite.rishispace.dev) | AI-powered Python package to auto-generate documentation & flow diagrams using LLMs. |
 | 🔹[**Rishi Intelligence**](https://ri.rishispace.dev) | A fully autonomous agent with complete access to your operating system |
-| 🔹[**Enigma OS**](https://enigmaos.rishispace.dev) | A privacy-first Linux OS built for modern users — secure, elegant, and gaming-ready out of the box. |
+| 🔹[**Enigmars OS**](https://enigmarsos.rishispace.dev) | A privacy-first Linux OS built for modern users — secure, elegant, and gaming-ready out of the box. |
 | 🔹[**AI-SystemAssist**](https://asa.rishispace.dev) | A simple HTTP server that lets AI agents execute commands on your machine and get structured results back. |
 
 ---
